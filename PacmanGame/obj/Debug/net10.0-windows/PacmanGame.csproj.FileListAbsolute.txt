@@ -1,0 +1,17 @@
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\bin\Debug\net10.0-windows\PacmanGame.exe
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\bin\Debug\net10.0-windows\PacmanGame.deps.json
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\bin\Debug\net10.0-windows\PacmanGame.runtimeconfig.json
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\bin\Debug\net10.0-windows\PacmanGame.dll
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\bin\Debug\net10.0-windows\PacmanGame.pdb
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.Form1.resources
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.Properties.Resources.resources
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.csproj.GenerateResource.cache
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.AssemblyInfoInputs.cache
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.AssemblyInfo.cs
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.dll
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\refint\PacmanGame.dll
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.pdb
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\PacmanGame.genruntimeconfig.cache
+C:\Users\abdi1\source\repos\PacmanGame\PacmanGame\obj\Debug\net10.0-windows\ref\PacmanGame.dll
