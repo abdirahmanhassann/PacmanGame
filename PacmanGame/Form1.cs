@@ -56,35 +56,26 @@ namespace PacmanGame
             if (e.KeyCode == Keys.Up && _pacmanDirection != Directions.north)
             {
                 _pacmanDirection = Directions.north;
-                PreviewPicture.Image = Image.FromFile(
-                  Path.Combine(
-                     Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),
-                     "imgs/pacmanNorth.gif"));
+                pacman.Image = Image.FromFile(Path.Combine(Path.GetFullPath(@"..\..\..\imgs\pacmanNorth.gif")));
             }
             if (e.KeyCode == Keys.Right && _pacmanDirection != Directions.east)
             {
                 _pacmanDirection = Directions.east;
-                Bitmap bmp = new Bitmap(pacman.Image);
-                pacman.Image = bmp;
-
+                pacman.Image = Image.FromFile(Path.Combine(Path.GetFullPath(@"..\..\..\imgs\pacmanEast.gif")));
             }
             if (e.KeyCode == Keys.Down && _pacmanDirection != Directions.south)
             {
                 _pacmanDirection = Directions.south;
-                Bitmap bmp = new Bitmap(pacman.Image);
-                bmp.RotateFlip(RotateFlipType.Rotate90FlipNone);
-                pacman.Image = bmp;
+                pacman.Image = Image.FromFile(Path.Combine(Path.GetFullPath(@"..\..\..\imgs\pacmanSouth.gif")));
+
             }
             if (e.KeyCode == Keys.Left && _pacmanDirection != Directions.west)
             {
                 _pacmanDirection = Directions.west;
-                Bitmap bmp = new Bitmap(pacman.Image);
-                bmp.RotateFlip(RotateFlipType.Rotate180FlipNone);
-                pacman.Image = bmp;
+                pacman.Image = Image.FromFile(Path.Combine(Path.GetFullPath(@"..\..\..\imgs\pacmanWest.gif")));
             }
+
         }
-
-
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
